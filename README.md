@@ -1,6 +1,7 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 15/05/2026<img width="900" height="665" alt="13" src="https://github.com/user-attachments/assets/1f3aa098-77ea-4905-ba02-d8617ac2aa23" />
+
 
 ## AIM:
 
@@ -53,10 +54,13 @@
 
 
 ## Output:
+<img width="975" height="699" alt="11" src="https://github.com/user-attachments/assets/4bfae55c-3b08-45fd-8403-39dd15881e61" />
+<img width="902" height="603" alt="12" src="https://github.com/user-attachments/assets/165f4f55-6699-42d7-ba83-282e1556f2b2" />
+<img width="900" height="665" alt="13" src="https://github.com/user-attachments/assets/90449d3d-1c12-4afd-b686-338efbfae75d" />
 
 
-### Name:
-### Register Number: 
+### Name:Rithish.B
+### Register Number: 212225220085
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
