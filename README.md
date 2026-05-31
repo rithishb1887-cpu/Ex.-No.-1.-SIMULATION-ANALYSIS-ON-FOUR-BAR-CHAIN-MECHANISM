@@ -1,6 +1,8 @@
+<img width="1002" height="482" alt="Screenshot 2026-05-31 105536" src="https://github.com/user-attachments/assets/517f3aea-8647-4ad3-8a83-a01c78806b2d" />
+<img width="1135" height="744" alt="Screenshot 2026-05-31 105402" src="https://github.com/user-attachments/assets/f9ae7b87-74dd-4bda-9033-e8a44f7445b6" />
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 15/05/2026
 
 ## AIM:
 
@@ -53,6 +55,9 @@
 
 
 ## Output:
+<img width="1135" height="744" alt="Screenshot 2026-05-31 105402" src="https://github.com/user-attachments/assets/4a67bcb7-ac6a-4b99-95a0-fc8bf30cc619" />
+<img width="974" height="564" alt="Screenshot 2026-05-31 105521" src="https://github.com/user-attachments/assets/03a957de-425d-42c0-8019-0c362b99287b" />
+<img width="1002" height="482" alt="Screenshot 2026-05-31 105536" src="https://github.com/user-attachments/assets/918e5b16-1e62-400a-9a20-c011433b7388" />
 
 
 ### Name:Rithish.B
