@@ -1,5 +1,3 @@
-<img width="1002" height="482" alt="Screenshot 2026-05-31 105536" src="https://github.com/user-attachments/assets/517f3aea-8647-4ad3-8a83-a01c78806b2d" />
-<img width="1135" height="744" alt="Screenshot 2026-05-31 105402" src="https://github.com/user-attachments/assets/f9ae7b87-74dd-4bda-9033-e8a44f7445b6" />
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 15/05/2026
